@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Sulaymanyah, Iraq
 * ✉️  You can contact me at emad95661@gmail.com
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
+* 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I can kick myself in the head
 
 <h3 align="left">Languages and Tools:</h3>
