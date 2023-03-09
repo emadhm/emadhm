@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emad Hassan</h1>
-<h3 align="center">MERN Stack Developer</h3>
-<h4 align="center">and</h4>
-<h3 align="center">Golang Developer</h3>
+<h3 align="center">I'm using MERN Stack and GoLang </h3>
+
 
 
 <br/>
